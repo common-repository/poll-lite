@@ -1,0 +1,54 @@
+.merlic_poll_admin_input {
+	margin-left: 20px;
+	width: 300px;
+}
+
+table#merlic_poll {
+	width: auto;
+}
+
+table#merlic_poll th {
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	margin-bottom: 10px;
+	background-color: #EDEDED;
+}
+
+table#merlic_poll td {
+	padding: 5px;
+}
+
+table#merlic_poll td.votes {
+	width: 60px;
+	text-align: center;
+}
+
+.merlic_poll_container .merlic_poll {
+	float: left;
+}
+
+.merlic_poll_container .merlic_poll_result {
+	float: left;
+}
+
+/* ADMIN PAGE */
+#navmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#navmenu li {
+	display: inline;
+}
+
+#navmenu ul li a {
+	text-decoration: none;
+	margin: 4px;
+	padding: 5px;
+}
+
+#navmenu ul li a:hover {
+	color: purple;
+}
